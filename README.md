@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there I'm SUSU!👋
+
+![SuSu's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuGyoungIn&show_icons=true&theme=radical)
 
 <!--
 **SuGyoungIn/SuGyoungIn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
