@@ -1,6 +1,6 @@
 ### Hi there I'm Indudu!👋
 
-![SuSu's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuGyoungIn&show_icons=true&theme=dracula)
+백준  랭킹
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=isks2)](https://solved.ac/isks2/)
 
 
